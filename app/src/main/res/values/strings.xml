@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+    <string name="remember_me_bro">Remember me, bro</string>
+    <string name="i_forgot_my_passw">I forgot my passw</string>
+    <string name="password">Password</string>
+    <string name="log_in_with_ur_information">Log In with ur information</string>
+    <string name="email_address">Email address</string>
+    <string name="greetings">Greetings</string>
+    <string name="listen">Listen</string>
+    <string name="or_login_with">Or Login with</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+</resources>
